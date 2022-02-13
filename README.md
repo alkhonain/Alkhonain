@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Abdulaziz Alkhonain</h1>
 <h3 align="center">Senior IS Student At PSAU, Interested in the field of Data Science, ML and AI. Here you can find my projects and experiments.</h3>
 
-- I’m currently working on **Trending Jobs**
+- I’m currently working on **Trending Jobs**, **Arabic Poems** and **detecting signs**
 
-- All of my projects are available at [https://github.com/alkhonain?tab=repositories](https://github.com/alkhonain?tab=repositories)
+- All of my projects are available at [my website]()
 
-- I regularly write articles on [https://medium.com/@a.khonain](https://medium.com/@a.khonain)
+- I regularly write articles on [medium](https://medium.com/@a.khonain)
 
-- How to reach me **a.m.khonain@gmail.com**
+- You can reach me  Via **Email: a.m.khonain@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/148NRsUJqEe5EF6z3NZdKVh5QABJ2Vy9f/view?usp=sharing](https://drive.google.com/file/d/148NRsUJqEe5EF6z3NZdKVh5QABJ2Vy9f/view?usp=sharing)
+- Know about my experiences via [Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
