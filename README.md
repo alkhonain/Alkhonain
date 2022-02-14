@@ -3,13 +3,13 @@
 
 - I’m currently working on **Trending Jobs**, **Arabic Poems** and **detecting signs**
 
-- All of my projects are available at [my website]()
+- All of my projects are available at [my website](https://www.abdulaziz-alkhonain.com/portfolio)
 
 - I regularly write articles on [medium](https://medium.com/@a.khonain)
 
 - You can reach me  Via **Email: a.m.khonain@gmail.com**
 
-- Know about my experiences via [Resume]()
+- Know about my experiences via [Resume](https://www.abdulaziz-alkhonain.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
