@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulaziz Alkhonain</h1>
-<h3 align="center">Senior IS Student At PSAU, Interested in the field of Data Science, ML and AI. Here you can find my projects and experiments.</h3>
+<h3 align="center">Senior IS Student at PSAU, Interested in the field of Data Science, ML and AI. Here you can find my projects and experiments.</h3>
 
-- I’m currently working on **Trending Jobs**, **Potential Talents** and **detecting signs**
+- I’m currently working on **Trending Jobs**, and **MonReader**
 
 - All of my projects are available at [my website](https://www.abdulaziz-alkhonain.com/portfolio)
 
