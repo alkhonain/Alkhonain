@@ -5,6 +5,8 @@
 
 - All of my projects are available at [my website](https://www.abdulaziz-alkhonain.com/portfolio)
 
+- You Can Check Out My [Last Project](https://github.com/alkhonain/Sign-language-recognition-system)
+
 - I regularly write articles on [medium](https://medium.com/@a.khonain)
 
 - You can reach me  Via **Email: a.m.khonain@gmail.com**
